@@ -1,5 +1,7 @@
 ## Fetched from Dogglers Starter Code
 
+https://github.com/google-developer-training/android-basics-kotlin-dogglers-app
+
 The Dogglers app is a nod to the good dogs of Google, hence the application's name. I also just realized that the app's namse is a play on the name 'Douglas'
 
 ### App screenshots and description
