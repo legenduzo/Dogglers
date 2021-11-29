@@ -6,9 +6,10 @@ The Dogglers app is a nod to the good dogs of Google, hence the application's na
 
 ### App screenshots and description
 
+![dogglers screen](https://user-images.githubusercontent.com/71154576/143816018-548a8b17-d385-46a5-8bfb-ce71c0805b73.jpg)
+
 
 1. This is the entry point of the application, giving you options to use the layout you choose.
-
 
 
 2. The vertical view allows you to view the beautiful dogs vertically
@@ -19,4 +20,4 @@ The Dogglers app is a nod to the good dogs of Google, hence the application's na
 
 4. The grid view arranges images in 2 by 2 grids for convenience.
 
-The application helped me get hands-on experience in using RecyclerView and Adapter to display data within an application.
+This application helped me get hands-on experience in using RecyclerView and Adapter to display data within an application.
